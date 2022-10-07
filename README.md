@@ -1,4 +1,4 @@
-# Eerchantpay
+# Emerchantpay
 
 ## Structure
 * common 
