@@ -1,0 +1,13 @@
+{
+    "payment_transaction": {
+      "card_number": "4423534500000",
+      "cvv": "123",
+      "expiration_date": "06/2019",
+      "amount": "700",
+      "usage": "Coffeemaker",
+      "transaction_type": "sale",
+      "card_holder": "Tony Stark",
+      "email": "tony.st@example.com",
+      "address": "Avengers Street, California"
+    }
+}
