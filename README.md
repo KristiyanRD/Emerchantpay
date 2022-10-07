@@ -23,7 +23,7 @@ Install the dependencies and start the testing.
 
  __Install Pytest__:
 ```sh
-pip install -U unittest
+pip install unittest
 ```
  __Install Requests__:
 ```sh
