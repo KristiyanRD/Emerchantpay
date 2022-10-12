@@ -35,7 +35,7 @@ pip install pyyaml
 ```
  __Install Json Path__:
 ```sh
-pip install jsonpath
+pip install jsonpath 
 ```
 
 # Prerequisites
